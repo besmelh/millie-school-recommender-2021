@@ -10,8 +10,7 @@ At the time the data in the "Browse" page is retreived from the "mini_master.csv
     * Contains filters to apply to the school search.
     * Quick view of the latest school folders.  (not yet functional)
     
-![Home Page Screenshot](/screenshots/1_home.png)
-<img src="/screenshots/1_home.png" alt="Home Page Screenshot" width="70%" height="auto">
+        <img src="/screenshots/1_home.png" alt="Home Page Screenshot" width="70%" height="auto">
     
     
 * Browse page: 
@@ -25,11 +24,11 @@ At the time the data in the "Browse" page is retreived from the "mini_master.csv
     
 * School details page: once the user clicks on a row that represenst a specific school in the Browse page, they will be redirected to a page with more details about that school. The page includes general info, contact info, and hyperlinks to any social media links associated with school.
 
-![School Details Page Screenshot](/screenshots/3_school_details.png)
+        <img src="/screenshots/3_school_details.png" alt="School Details Page Screenshot" width="70%" height="auto">
 
 
 * Folders page (not yet functional):
     * User can select multiple schools from the Browse page, and save them in a folder which would be accessed through this page.
     
-![School Details Page Screenshot](/screenshots/3_school_details.png)
+    <img src="/screenshots/4_folders.png" alt="Folders Page Screenshot" width="70%" height="auto">
 
