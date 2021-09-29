@@ -20,6 +20,7 @@ At the time the data in the "Browse" page is retreived from the "mini_master.csv
     * A statistics bar that shows a summary of the current rows in the table.
     
 ![Browse Page Screenshot](/screenshots/2_browse.png)
+<img src="/screenshots/2_browse.png" width="100" height="100">
     
     
 * School details page: once the user clicks on a row that represenst a specific school in the Browse page, they will be redirected to a page with more details about that school. The page includes general info, contact info, and hyperlinks to any social media links associated with school.
