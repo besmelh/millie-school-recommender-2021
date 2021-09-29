@@ -1,0 +1,32 @@
+.MainTable{
+    height: 600;
+    width: '100%';
+    border: 2px solid #061A33;
+}
+
+.DataGrid {
+    background-color: white;
+}
+
+.MuiDataGrid-main {
+    font-family: 'Poppins';
+}
+
+.MuiDataGrid-columnsContainer, .MuiDataGrid-columnsContainer .MuiIconButton-label {
+    background-color: #061A33;
+    color:white;
+}
+
+.MuiIconButton-label {
+    color:#061A33;
+}
+
+.MuiDataGrid-toolbarContainer button{
+    color: #203D64;
+    text-transform: capitalize;
+    font-family: 'Poppins';
+}
+
+.MuiDataGrid-iconButtonContainer{
+    display: none;
+}

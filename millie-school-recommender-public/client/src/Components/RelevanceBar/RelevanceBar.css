@@ -1,0 +1,51 @@
+/* This can probably be coded in a better more efficient way, I faced some issues along the way
+so this was a quick solution */
+
+
+
+.RelevanceBarDiv .RelevanceBar{
+    background-color: #EDF5FF;
+    border: 2px solid #061A33;;
+}
+
+/* unknown */
+.unknown .MuiLinearProgress-bar{
+    background-color: #BBBBBB;
+    border: 2px solid #A6A6A6;
+}
+
+/* prospect */
+.prospect .MuiLinearProgress-bar{
+    background-color: #F7CC45;
+    border: 2px solid #EABA25;
+}
+
+/* interested */
+.interested .MuiLinearProgress-bar{
+    background-color: #BAE160;
+    border: 2px solid #ABD055;
+}
+
+/* in progress */
+.inProgress .MuiLinearProgress-bar{
+    background-color: #5AC47D;
+    border: 2px solid #50B169;
+}
+
+/* engaged */
+.engaged .MuiLinearProgress-bar{
+    background-color: #377D50;
+    border: 2px solid #2D693D;
+}
+
+/* partner */
+.partner .MuiLinearProgress-bar{
+    background-color: #3885BB;
+    border: 2px solid #23699A;
+}
+
+/* not interested */
+.notInterested .MuiLinearProgress-bar{
+    background-color: #D1505F;
+    border: 2px solid #BE3F4C;
+}

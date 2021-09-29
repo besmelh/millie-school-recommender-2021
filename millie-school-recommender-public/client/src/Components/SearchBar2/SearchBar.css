@@ -1,0 +1,18 @@
+.SearchBar{
+    background-color: white;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 20px;
+    border: 2px solid #061A33;    ;
+}
+
+.SearchBar .inputBase{
+    color:#061A33;
+    width:100%;
+    font-family:'Poppins';
+}
+
+.SearchBar button{
+    color:#061A33;
+}

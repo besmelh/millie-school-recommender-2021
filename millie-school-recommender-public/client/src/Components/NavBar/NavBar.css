@@ -1,0 +1,38 @@
+.NavBar {
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+.NavBar ul {
+    display: flex;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    padding: 20px 60px;
+}
+
+.NavBar li{
+    display: flex;
+    padding-right: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+}
+
+.NavBar a{
+    display: flex;
+    text-decoration: none;
+    color: #061A33;
+}
+
+.NavBar  a:hover{
+    border-bottom: 3px solid #061A33;
+}
+
+.NavBar .logo:hover{
+    border-bottom: none;
+}
+
+.NavBar .active{
+    border-bottom: 5px solid black;
+}

@@ -1,0 +1,72 @@
+
+.Container{
+    width: 1000px;
+}
+
+h1{
+    margin-bottom: 50px;
+    font-weight: 200;
+    font-size: 50px;
+}
+
+.margin-5-bottom{
+    margin-bottom:5px;
+}
+
+.margin-5-top{
+    margin-top:5px;
+}
+
+.scale150{
+    transform: scale(1.5);
+}
+
+.scale150{
+    transform: scale(1.5);
+}
+
+.scale200{
+    transform: scale(2);
+}
+
+.orange{
+    color: #FB6C30;
+}
+
+
+.center{
+    display: flex;
+}
+
+.orangeBackground{
+    color: white;
+    background-color: #FB6C30;
+}
+
+.fullWidthAndHeight{
+    width:100%;
+    height:100%;
+}
+
+.groupDisplayFlexWrap{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    margin: 50px 0;
+}
+
+.flex{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.inTextLink{
+    text-decoration: underline;
+    font-weight: 700;
+}
+
+.poppins{
+    font-family: 'Poppins';
+}
+

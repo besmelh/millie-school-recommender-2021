@@ -1,0 +1,50 @@
+.BrowsePage .ButtonBar{
+    justify-content: flex-end;
+    margin-bottom: 50px;
+}
+
+.SideBar {
+    padding:0;
+    border: 3px solid #FB6C30;
+    background-color: white;
+}
+
+.SideBar h2{
+    margin:0;
+    color: white;
+    background-color: #FB6C30;
+    padding:20px;
+    text-align: left;
+}
+
+.SideBarContent{
+    padding:20px;
+}
+
+.MainContent .SearchBar{
+    margin-bottom:20px;
+}
+
+.Content{
+    gap:30px;
+    justify-content: space-between;
+}
+
+.ChartSection{
+    margin-bottom: 70px;
+}
+
+.ChartSection h3{
+    text-align: left;
+    color:#FB6C30;
+    font-weight: 500;
+    margin-bottom: 30px;
+}
+
+.MainContent .SideBar {
+    padding:0;
+}
+
+.HorizontalLine{
+    margin:50px 0;
+}

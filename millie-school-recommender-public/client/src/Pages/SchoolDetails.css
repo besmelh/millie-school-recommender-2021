@@ -1,0 +1,104 @@
+.schoolDetailsHeader{
+    margin-top: 50px;
+   display: flex;
+   align-items: flex-end;
+    justify-content: space-between;
+}
+
+.logoAndTitle, .iconAndText{
+    display: flex;
+}
+
+.iconAndText a, .fieldDetails{
+   color: #061A33;
+}
+
+
+.schoolLogoAndStatusDot {
+    position: relative;
+    margin-right: 30px;
+}
+
+.smallCircle{
+    position: absolute;
+    top:-8px;
+    right:-8px;
+    width: 23px;
+    height: 23px;
+    border-radius: 100%;
+    background-color: darkgray;
+    border: 2px solid grey;
+}
+
+.schoolLogo{
+    width: 68px;
+    height: 68px;
+    background: #FFFFFF;
+    padding: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 10px;
+}
+
+.schoolName{
+    color: #FB6C30;
+    font-weight: 400;
+    font-size: 40px;
+    margin-bottom: 0;
+}
+
+.schoolDetailsContainers h3{
+    font-size: 30px;
+}
+
+.schoolDetailsContainers h3, .schoolDetailsContainers h4{
+    color:#B13907;
+}
+
+.schoolDetailsContainers h4{
+    border-bottom: 2px solid #B13907;
+    padding-left: 5px;
+}
+
+.schoolDetailsContainers .logoAndTitle h4{
+    border-bottom: none;
+    margin: 0;
+}
+
+.schoolDetailsContainers .logoAndTitle {
+    border-bottom: 2px solid #B13907;
+    margin-bottom: 21.28px;
+}
+
+.schoolDetailsSection{
+    gap: 0 20px;
+
+}
+
+.field{
+    gap: 0 10px;
+}
+
+.field{
+    margin-bottom: 8px;
+}
+
+.fieldTitle {
+    font-weight: 700;
+
+}
+
+
+.unknown {
+    color:#bdbdbd;
+}
+
+
+h3 .numberOfElements{
+    text-decoration: underline;
+    margin-left: 20px;
+    font-size: 25px;
+}
+
+h4 .numberOfElements{
+    margin-left: 40px;
+}

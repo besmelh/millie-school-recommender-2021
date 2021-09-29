@@ -1,0 +1,39 @@
+.QuickviewBox {
+    border-radius: 20px;
+    text-align: left;
+    background-color: white;
+    border: 3px solid #FB6C30;
+    padding:20px;
+    position: relative;
+    width: 275px;
+    height: 110px;
+}
+
+.QuickviewBox h3{
+    margin: 0;
+    font-weight: 500;
+    margin-bottom: 8px;
+}
+
+.QuickviewBox h4{
+    margin: 0;
+    font-weight: 400;
+}
+
+.QuickviewBox h5{
+    margin: 0;
+    color:#FB6C30;
+    font-weight: 400;
+}
+
+.QuickviewBox button{
+    color:#FB6C30;
+    position: absolute;
+    top: 5px;
+    right: 0;
+    margin:5px;
+}
+
+.QuickviewBox .MuiIconButton-label{
+    color:#FB6C30;
+}
