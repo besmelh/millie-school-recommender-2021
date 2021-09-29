@@ -4,6 +4,15 @@
 At the time the data in the "Browse" page is retreived from the "mini_master.csv" file in this folder. Eventually I hope this turns into an automated process, where the csv/json is uploaded to AWS and retreived from there. 
 
 
+## Current iteration includes:
+* Home page: contains filters to apply to the school search.
+* Browse page: 
+    * Displays all schools from the database in a table
+    * Table rows may depending on the user's choice in the main page filters. 
+    * Includes a search bar to search through the database and return all rows that contain the searched keyword.
+    * A statistics bar that shows a summary of the current rows in the table.
+* School details page: once the user clicks on a row that represenst a specific school in the Browse page, they will be redirected to a page with more details about that school. The page includes general info, contact info, and hyperlinks to any social media links associated with school.
+
 ## Notes:
 ### Adding new filters in the main page
 * In the array `searchFilters` in `Home.js` add the name of field you want to add as a filter. Note that the field name must match the one in the *master* table. Also, at the moment the code only supports fields that are in the *master* table.
