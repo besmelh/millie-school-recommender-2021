@@ -24,7 +24,7 @@ At the time the data in the "Browse" page is retreived from the "mini_master.csv
     
 * School details page: once the user clicks on a row that represenst a specific school in the Browse page, they will be redirected to a page with more details about that school. The page includes general info, contact info, and hyperlinks to any social media links associated with school.
 
-        <img src="/screenshots/3_school_details.png" alt="School Details Page Screenshot" width="70%" height="auto">
+    <img src="/screenshots/3_school_details.png" alt="School Details Page Screenshot" width="70%" height="auto">
 
 
 * Folders page (not yet functional):
