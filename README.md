@@ -1,7 +1,7 @@
 # millie-school-recommender
 ## Website for Millie's School Recommender Tool
 
-At the time the data in the "Browse" page is retreived from the "mini_master.csv" file in this folder. Eventually I hope this turns into an automated process, where the csv/json is uploaded to AWS and retreived from there. 
+A website for [Millie Group](https://www.milliegroup.com/), that displays and manages the information from a database.
 
 
 ## Current iteration includes:
